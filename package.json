@@ -1,0 +1,18 @@
+{
+  "name": "cicmhe-app",
+  "version": "1.0.0",
+  "description": "CICMHE application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Linus Castelino UB Person# - 50289142",
+  "license": "ISC",
+  "dependencies": {
+    "circular-json": "^0.5.9",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10"
+  }
+}
